@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Manish-k723
+- 👋 Hi, I’m @Manish-kumar
 - 👀 Transforming data into knowledge, power to predict
-- 🌱 I’m currently learning python and other Data analytics tool.
+- 🌱 Human Intelligence -> Machine Intelligence -> Artificial Intelligent
 - 💞️ I’m looking to collaborate in GITHUB society by doing something of my own in the field of analysis.
 - 📫 You can reach me through my gmail - kmanishk123.mk@gmail.com
 <!---
